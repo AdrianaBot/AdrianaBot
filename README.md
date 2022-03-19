@@ -1,5 +1,9 @@
-#**Hi! I'm Adriana. ʕ•ᴥ•ʔ**
+<p align="center">
 
-: Currently studying Software Engineering. (ღ˘⌣˘ღ) :
+# **Hi! I'm Adriana. ʕ•ᴥ•ʔ**
 
-: ! [Paimon gif] (https://c.tenor.com/1wwB5yNC6dgAAAAd/genshin-impact.gif) :
+Currently studying Software Engineering. (ღ˘⌣˘ღ)
+
+![Paimon gif](https://c.tenor.com/YTL_4nePiPYAAAAC/paimon-genshin-impact.gif) 
+
+  </p>
