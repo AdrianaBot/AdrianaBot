@@ -1,5 +1,5 @@
  <p align="center">
-    🎃🍭 I like books, unhealthy amounts of sweets and horror movies. Sometimes I try to code. 🍭🎃
+    🎃🍭 I like books, unhealthy amounts of sweets and horror movies. I try to code. 🍭🎃
 </p>
  
 <p align="center">
