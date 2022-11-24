@@ -11,16 +11,12 @@
   </p>
   
    <p align="center">
-  🎃🍭🎃🍭🎃 ༼ つ ◕_◕ ༽つ 🎃🍭🎃🍭🎃
+  🍭🎃 ༼ つ ◕_◕ ༽つ 🎃🍭
   </p>
   
+  
+<p align="center"
 
-<p align="center">
-  <img
-       width="498"
-       height="100"
-       src="./dino.png"
-       >
-  </p>
-       
-
+ ![github contribution grid snake animation](https://github.com/AdrianaBot/AdrianaBot/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://github.com/AdrianaBot/AdrianaBot/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+ 
+</p>
