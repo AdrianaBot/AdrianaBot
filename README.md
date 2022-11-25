@@ -15,8 +15,4 @@
   </p>
   
   
-<p align="center"
 
- ![github contribution grid snake animation](https://github.com/AdrianaBot/AdrianaBot/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://github.com/AdrianaBot/AdrianaBot/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
- 
-</p>
